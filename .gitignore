@@ -46,3 +46,7 @@ _testmain.go
 #*.png
 #*.jpeg
 *.psd
+/node_modules
+/.vscode
+/.husky
+/.vite

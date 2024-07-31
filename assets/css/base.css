@@ -1,0 +1,13 @@
+:root {
+  --soft-primary-color: #84d187;
+  --primary-color: #00b207;
+  --hard-primary-color: #2c742f;
+  --warning-color: #ff8a00;
+  --danger-color: #ea4b48;
+}
+
+html {
+  font-family: "Poppins", sans-serif;
+  font-size: 62.5%;
+  line-height: 1.6rem;
+}
